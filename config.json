@@ -1,0 +1,33 @@
+{
+	"port": 9000,
+	"baseUrl": "./",
+	"entries": {
+		"script": "main.js",
+		"css": "main.+(sass|scss)",
+		"dataJson": "data.json"
+	},
+	"directories": {
+		"source": "src/",
+		"app": "app/",
+		"destination": "build",
+		"temporary": "tmp",
+		"component": "components/",
+		"css": "styles/",
+		"assets": "assets/",
+		"scripts": "scripts/",
+		"views": "views/",
+		"images": "img/",
+		"fonts": "fonts/",
+		"data": "data/",
+		"pages": "pages/"
+	},
+	"author": {
+		"name": "yem",
+		"version": "v1.0.0",
+		"link": "",
+		"lincense": "MIT",
+		"coding": "Coding by yem",
+		"phone": "XXXXXXXXXX",
+		"email": "yem@email.com"
+	}
+}
